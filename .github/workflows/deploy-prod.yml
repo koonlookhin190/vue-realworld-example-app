@@ -1,4 +1,4 @@
-name: deploy vue
+name: deploy on prod branch 
 on: 
   push:
     branches:
